@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(python3 fix_templates.py)",
+      "Bash(py fix_templates.py)",
+      "Bash(python3.exe fix_templates.py)",
+      "Bash(grep:*)"
+    ]
+  }
+}
